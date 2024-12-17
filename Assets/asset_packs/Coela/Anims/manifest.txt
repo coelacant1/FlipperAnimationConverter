@@ -1,0 +1,17 @@
+Filetype: Flipper Animation Manifest
+Version: 1
+
+Name: Bonk
+Min butthurt: 0
+Max butthurt: 18
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: Peek
+Min butthurt: 0
+Max butthurt: 18
+Min level: 1
+Max level: 30
+Weight: 3
+
